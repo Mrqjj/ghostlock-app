@@ -27,6 +27,7 @@ W3 seccomp bypass，即使并非必需，也能节省时间。
 | `5.15.189-android13-8-00016-g51bba4309aac-ab14546557`  | Sony Xperia 1 V                                                  |
 | `5.15.189-android13-8-00004-g1c3825f8ac0a-ab14110541`  | Sony Xperia 1 V                                                  |
 | `6.1.25-android14-11-maybe-dirty`                      | MEIZU 21 / MEIZU 21 Pro                                          |
+| `6.1.78-android14-11-gb6577b760481-ab12075023`         | Redmi Note 14 Pro 5G                                             |
 | `6.1.134-android14-11-maybe-dirty`                     | Boox Onyx NoteAir6C                                              |
 | `6.1.115-android14-11-ga2521ca27699-ab13294383`        | POCO X6 Pro                                                      |
 | `6.1.118-android14-11-ga3b9c44908dd-ab13320413`        | Redmi Note 15 Pro+                                               |
